@@ -1,1 +1,2 @@
-# hw-econometrics2018-ba-econ-en-de--h1
+# Econometrics 2018
+## Homework 1
